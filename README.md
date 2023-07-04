@@ -20,11 +20,11 @@ Each time you click on the screen, you will shoot a bullet.
 
 On the menu screen:\
 Shoot a bullet on *START* to start the game.\
-Shoot a bullet on *INFOS* to display more infos about the game, in the terminal.\
+Shoot a bullet on *INFO* to display more infos about the game, in the terminal.\
 Shoot a bullet on *QUIT* if you hate my game.
 
 Once the game has started:\
-Enemies will start spawning, shoot them up !\
+Enemies will start spawning, shoot them up ! If they get to you, you lose.\
 Be careful, each time you miss an enemy, a new one will spawn.\
 Your score is displayed as the title of the window.\
 If you press the esc key on your keyboard, it will pause the game.\
